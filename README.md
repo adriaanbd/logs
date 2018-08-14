@@ -3,7 +3,7 @@
 # About
 This project sets up a mock PostgreSQL database for a fictional news website. 
 This python script was created as an internal reporting tool to discover what 
-kind of articles the site's reader's like. It connects to the database, use SQL 
+kind of articles the site's readers like. It connects to the database, use SQL 
 queries to analyze the log data and prints out the answers to the following 
 questions:
 
